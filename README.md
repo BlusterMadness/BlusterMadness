@@ -10,7 +10,7 @@
 
 <a href="https://github.com/BlusterMadness?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 <a href="https://discord.gg/GJTPqFnTxE"><img src="https://img.shields.io/badge/JOIN_THE_DISCORD-DC2626?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Bluster Development Discord" /></a>
-<a href="https://www.twitch.tv/bluster_madness"><img src="https://img.shields.io/badge/CATCH_MY_STREAM-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Bluster Madness on Twitch" /></a>
+<a href="https://bluster-development.tebex.store"><img src="https://img.shields.io/badge/VISIT_MY_STORE-DC2626?style=for-the-badge&logo=shopping-bag&logoColor=white" alt="Shop FiveM scripts at Bluster Development" /></a>
 
 </div>
 
@@ -51,7 +51,7 @@ UI / UX              ███████████████████�
 
 ### 💬 Let's connect
 
-Working on a FiveM server, using one of my resources, or just want to hang out? Find me in the **[Bluster Development Discord](https://discord.gg/GJTPqFnTxE)**, check out the **[GitHub projects](https://github.com/BlusterMadness?tab=repositories)**, or drop by **[Twitch](https://www.twitch.tv/bluster_madness)**.
+Working on a FiveM server, using one of my resources, or just want to hang out? Find me in the **[Bluster Development Discord](https://discord.gg/GJTPqFnTxE)**, check out the **[GitHub projects](https://github.com/BlusterMadness?tab=repositories)**, or browse my FiveM scripts at the **[Bluster Development Tebex Store](https://bluster-development.tebex.store)**.
 
 <div align="center">
 
